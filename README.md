@@ -1,4 +1,4 @@
 Arcadia
 =======
 
-Case study on Arcadia, CA
+Date case study on Arcadia, CA
