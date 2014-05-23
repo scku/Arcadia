@@ -4,7 +4,7 @@ import csv
 
 DEBUG = 1
 
-TRULIA_API_KEY = "z9hey9s7kabkuhbfmursjdzy"
+TRULIA_API_KEY = "INSERT KEY HERE"
 
 API_CALL = "http://api.trulia.com/webservices.php?library=TruliaStats&function=getCityStats"
 payload = {'city':'Arcadia', 'state':'CA', 'startDate':'2003-01-01', 'endDate':'2014-03-31', 'statType':'listings', 'apikey':'z9hey9s7kabkuhbfmursjdzy'}
